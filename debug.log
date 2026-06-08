@@ -1,0 +1,22 @@
+[DEBUG] _ai_search called, query='假面骑士555第一集'
+[DEBUG] starting search + poll
+[DEBUG] _search_thread started
+[DEBUG] thread and poll started
+[DEBUG] import search_video OK
+[DEBUG] calling search_video...
+[DEBUG] _on_progress: AI 知识库搜索
+[POLL] progress: AI 知识库搜索
+[DEBUG] _on_progress: 网络搜索
+[POLL] progress: 网络搜索
+[DEBUG] _on_progress: 网络搜索
+[POLL] progress: 网络搜索
+[DEBUG] _on_progress: 网络搜索
+[POLL] progress: 网络搜索
+[DEBUG] _on_progress: 去重合并
+[DEBUG] _on_progress: AI 分析
+[POLL] progress: 去重合并
+[POLL] progress: AI 分析
+[DEBUG] _on_progress: AI 分析
+[DEBUG] search_video returned 4 results
+[POLL] progress: AI 分析
+[POLL] results: 4 items

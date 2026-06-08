@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+config/local_*.py
+downloads/
+cache/
+.DS_Store
+
+# Downloaded videos
+downloads/
+videos/
